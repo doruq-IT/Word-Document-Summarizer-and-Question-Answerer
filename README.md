@@ -1,4 +1,4 @@
-Word Document Summarizer
+# Word Document Summarizer
 
 Welcome to the Word Document Summarizer – a powerful Python application that harnesses the magic of Natural Language Processing (NLP) to simplify your document management tasks.
 
